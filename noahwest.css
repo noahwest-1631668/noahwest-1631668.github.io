@@ -1,0 +1,52 @@
+body{
+	background-image: url('halftone-yellow.png');
+}
+#Header H1{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	border: solid 8px purple;
+	text-align: center;
+	font-family: 'Rammetto One', cursive;
+
+}
+#LeftNav{
+	float: left;
+	text-align: left;
+	width: 300px;
+	}
+	#LeftNav H2{
+	font-family: 'Rammetto One', cursive;
+	font-size: 12px;
+
+}
+
+#Content{
+	text-align: left;
+	width: 300px;
+}
+	#Content H2{
+	font-family: 'Rammetto One', cursive;
+	font-size: 12px;
+}
+
+#Statement{
+	text-align: left;
+	width: 1200px;
+}
+	#Statement H2{
+	font-family: 'Rammetto One', cursive;
+	font-size: 12px;
+}
+
+#Footer {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	
+
+
+
+}
